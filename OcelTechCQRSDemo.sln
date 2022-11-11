@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelTech.Todo.WebApi", "OcelTech.Todo.WebApi\OcelTech.Todo.WebApi.csproj", "{A78F2D5F-776B-43CA-8983-E84D4C7AFE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A78F2D5F-776B-43CA-8983-E84D4C7AFE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78F2D5F-776B-43CA-8983-E84D4C7AFE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78F2D5F-776B-43CA-8983-E84D4C7AFE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78F2D5F-776B-43CA-8983-E84D4C7AFE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FAC20C2-1816-43E7-B899-72A599054BE2}
+	EndGlobalSection
+EndGlobal
