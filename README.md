@@ -1,1 +1,1 @@
-# OcelTechCQRSDemo
+# CQRS Demo
